@@ -1,0 +1,8 @@
+{
+  "name": "greeting",
+  "description": "Enter username and greets that user",
+  "version": "0.0.1",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
